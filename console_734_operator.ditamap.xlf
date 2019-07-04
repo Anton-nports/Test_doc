@@ -3,7 +3,7 @@
 <file source-language="ru" original="concepts\console_734\chat.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita6387182020009134106.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita9330520841038387758.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -12,18 +12,12 @@
       <source xml:lang="ru">Чат</source>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">Для подключенных к системе консолей доступен чат, окно которого можно вызвать через вкладку «<ph ctype="x-link" id="0">&lt;xref href="tools_tab.dita#console_734_tools_tab" class="- topic/xref "&gt;</ph>Инструменты<ph id="1">&lt;/xref&gt;</ph>» главного окна программы.</source>
+      <source xml:lang="ru">Для подключенных к системе консолей доступен чат, окно которого можно вызвать через вкладку «<ph ctype="x-link" id="0">&lt;xref href="tools_tab.dita#console_734_tools_tab" class="- topic/xref "&gt;</ph>Инструменты<ph id="1">&lt;/xref&gt;</ph>» главного окна программы. В левой части окна чата расположен список доступных для общения пользователей программы, в правой части окна – поле обмена сообщениями.</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> В левой части окна чата расположен список доступных для общения пользователей программы, в правой части окна – поле обмена сообщениями.</source>
+      <source xml:lang="ru">Окно чата всплывает при входящих сообщениях. Набранные сообщения отправляются с помощью клавиши «Enter».</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="4">
-      <source xml:lang="ru">Окно чата всплывает при входящих сообщениях.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="5">
-      <source xml:lang="ru"> Набранные сообщения отправляются с помощью клавиши «Enter».</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="6">
       <source xml:lang="ru">Чат</source>
    </trans-unit>
     </body>
@@ -33,7 +27,7 @@
 <file source-language="ru" original="concepts\console_734\common_tools.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16285573072783592595.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16601689712070617804.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -48,7 +42,7 @@
 <file source-language="ru" original="concepts\console_734\firmware_install.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita15861028259823548734.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita10026949282844946604.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -57,12 +51,9 @@
       <source xml:lang="ru">Прошивка устройства</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="2">
-      <source xml:lang="ru">С помощью данного инструмента можно обновить встроенное ПО устройства.</source>
+      <source xml:lang="ru">С помощью данного инструмента можно обновить встроенное ПО устройства. Для выполнения операции требуется добавить одно или несколько устройств одного типа, выбрать файл соответствующей прошивки, ввести дополнительные параметры (пароли и номер образа) и нажать кнопку «Прошить».</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> Для выполнения операции требуется добавить одно или несколько устройств одного типа, выбрать файл соответствующей прошивки, ввести дополнительные параметры (пароли и номер образа) и нажать кнопку «Прошить».</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="4">
       <source xml:lang="ru">Прошивка устройства</source>
    </trans-unit>
     </body>
@@ -72,7 +63,7 @@
 <file source-language="ru" original="concepts\console_734\packet_tracing.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita4683766013162082350.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita9916363745119738462.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -81,33 +72,21 @@
       <source xml:lang="ru">Трассировка пакетов</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="2">
-      <source xml:lang="ru">Отслеживание обмена данных с устройствами выполняется посредством инструмента трассировки пакетов.</source>
+      <source xml:lang="ru">Отслеживание обмена данных с устройствами выполняется посредством инструмента трассировки пакетов. Процесс трассировки начинается с выбора точки подключения – кнопка «Подключить». Список доступных для подключения точек показывается в отдельном диалоговом окне.</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> Процесс трассировки начинается с выбора точки подключения – кнопка «Подключить».</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="4">
-      <source xml:lang="ru"> Список доступных для подключения точек показывается в отдельном диалоговом окне.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="5">
       <source xml:lang="ru">Трассировка пакетов</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="6">
-      <source xml:lang="ru">Сразу после выбора подключения запускается мониторинг обмена данных.</source>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source xml:lang="ru">Сразу после выбора подключения запускается мониторинг обмена данных. Над списком записей доступны поля для фильтрации и группировки отображаемых записей, в нижней части окна показывается статистика. Дополнительные кнопки действий:</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="7">
-      <source xml:lang="ru"> Над списком записей доступны поля для фильтрации и группировки отображаемых записей, в нижней части окна показывается статистика.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="8">
-      <source xml:lang="ru"> Дополнительные кнопки действий:</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="9">
+      <trans-unit approved="no" xml:space="preserve" id="5">
       <source xml:lang="ru">«Отключить» – разрывает соединение с одной из выбранных точек;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="10">
+      <trans-unit approved="no" xml:space="preserve" id="6">
       <source xml:lang="ru">«Очистить» – стирает все записи;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="11">
+      <trans-unit approved="no" xml:space="preserve" id="7">
       <source xml:lang="ru">«Остановить» – приостанавливает мониторинг.</source>
    </trans-unit>
     </body>
@@ -117,7 +96,7 @@
 <file source-language="ru" original="concepts\console_734\rdf_correction_tables_editor.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita15407805101653600886.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita12111921527500791296.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -126,45 +105,36 @@
       <source xml:lang="ru">Редактор таблиц корректировок АРП</source>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">Данный инструмент применяется для корректировки значений азимута <ph ctype="x-other" id="0">&lt;term keyref="rdf" class="- topic/term "/&gt;</ph> посредством табличных данных.</source>
+      <source xml:lang="ru">Данный инструмент применяется для корректировки значений азимута <ph ctype="x-other" id="0">&lt;term keyref="rdf" class="- topic/term "/&gt;</ph> посредством табличных данных. Таблицы могут быть созданы вновь, а также загружены из файла или устройства.</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> Таблицы могут быть созданы вновь, а также загружены из файла или устройства.</source>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru">Новая таблица создается по клавише <ph ctype="x-image" id="0">&lt;image href="../../images/console_734/icons/square_plus.jpg" placement="inline" scalefit="yes" class="- topic/image " align="center"/&gt;</ph>. В левой колонке отображаются частоты, в правой колонке – таблицы показаний с борта и с АРП отдельно для каждой из частот.</source>
    </trans-unit>
-      <trans-unit approved="no" id="4" xml:space="preserve">
-      <source xml:lang="ru">Новая таблица создается по клавише <ph ctype="x-image" id="0">&lt;image href="../../images/console_734/icons/square_plus.jpg" placement="inline" scalefit="yes" class="- topic/image " align="center"/&gt;</ph>.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="5">
-      <source xml:lang="ru"> В левой колонке отображаются частоты, в правой колонке – таблицы показаний с борта и с АРП отдельно для каждой из частот.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="6">
+      <trans-unit approved="no" xml:space="preserve" id="4">
       <source xml:lang="ru">Редактор таблиц корректировок АРП</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="7">
-      <source xml:lang="ru">С помощью пункта меню «Правка» можно копировать и удалять частоты.</source>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source xml:lang="ru">С помощью пункта меню «Правка» можно копировать и удалять частоты. Запись частоты копируется полностью со всеми показаниями.</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="8">
-      <source xml:lang="ru"> Запись частоты копируется полностью со всеми показаниями.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="9">
+      <trans-unit approved="no" xml:space="preserve" id="6">
       <source xml:lang="ru">Пункт меню «Файл» содержит следующие элементы:</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="10">
+      <trans-unit approved="no" xml:space="preserve" id="7">
       <source xml:lang="ru">«Создать новые таблицы» – открывает шаблон таблиц;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="11">
+      <trans-unit approved="no" xml:space="preserve" id="8">
       <source xml:lang="ru">«Обновить» – обновляет отображаемые таблицы (из открытого файла или из АРП);</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="12">
+      <trans-unit approved="no" xml:space="preserve" id="9">
       <source xml:lang="ru">«Открыть устройство» – предлагает выбрать АРП для выгрузки из него таблиц;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="13">
+      <trans-unit approved="no" xml:space="preserve" id="10">
       <source xml:lang="ru">«Загрузить в устройство» – предлагает выбрать АРП для загрузки в него отображаемых таблиц;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="14">
+      <trans-unit approved="no" xml:space="preserve" id="11">
       <source xml:lang="ru">«Открыть файл» – открывает файл формата csv с ранее сохраненными таблицами;</source>
    </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="15">
+      <trans-unit approved="no" xml:space="preserve" id="12">
       <source xml:lang="ru">«Сохранить как (файл)» – сохраняет отображаемые таблицы в файл (формат – csv); файл может быть дополнен до 16 каналов пеленгования со значениями по умолчанию (частота – 127 МГц, угол – 0 градусов).</source>
    </trans-unit>
     </body>
@@ -174,7 +144,7 @@
 <file source-language="ru" original="concepts\console_734\users_activity.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita13327204922873912241.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16174949321510075820.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -183,12 +153,9 @@
       <source xml:lang="ru">Действия пользователей</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="2">
-      <source xml:lang="ru">Данный инструмент позволяет отслеживать действия всех подключенных пользователей.</source>
+      <source xml:lang="ru">Данный инструмент позволяет отслеживать действия всех подключенных пользователей. Записи действий могут быть отфильтрованы с помощью выдвигающейся вкладки справа.</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> Записи действий могут быть отфильтрованы с помощью выдвигающейся вкладки справа.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="4">
       <source xml:lang="ru">Действия пользователей</source>
    </trans-unit>
     </body>
@@ -198,7 +165,7 @@
 <file source-language="ru" original="concepts\console_734\view_logs.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita6417510670576152631.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita1934147783861447376.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -207,12 +174,9 @@
       <source xml:lang="ru">Просмотр логов</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="2">
-      <source xml:lang="ru">Данное окно позволяет просматривать общий журнал сообщений от подключенных устройств.</source>
+      <source xml:lang="ru">Данное окно позволяет просматривать общий журнал сообщений от подключенных устройств. Фильтрация записей осуществляется с помощью выдвигающейся вкладки справа.</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
-      <source xml:lang="ru"> Фильтрация записей осуществляется с помощью выдвигающейся вкладки справа.</source>
-   </trans-unit>
-      <trans-unit approved="no" xml:space="preserve" id="4">
       <source xml:lang="ru">Список записей</source>
    </trans-unit>
     </body>
@@ -222,7 +186,7 @@
 <file source-language="ru" original="console_734_glossgroup.dita" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita7541546194460675543.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita12362726409518741610.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
@@ -363,7 +327,7 @@
 <file source-language="ru" original="console_734_operator.ditamap" datatype="x-ditamap" target-language="en" tool-id="OpenXLIFF">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita14940653284286162180.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16995424861901124899.skl"/>
       </skl>
       <tool tool-version="1.3.2 20190630_1138" tool-id="OpenXLIFF" tool-name="Open XLIFF Filters"/>
     </header>
