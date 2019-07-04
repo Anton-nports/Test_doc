@@ -4,7 +4,7 @@
   <file original="concepts\console_734\execution_conditions.dita" source-language="ru" target-language="en" datatype="x-ditamap">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\projects\work\software_old\dita2556635238672545411.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7158452665935108166.skl"/>
       </skl>
     </header>
     <body>
@@ -65,7 +65,7 @@
   <file source-language="ru" original="concepts\console_734\function.dita" datatype="x-ditamap" target-language="en">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\projects\work\software_old\dita2549136078543298551.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita15386535157344934177.skl"/>
       </skl>
     </header>
     <body>
@@ -73,7 +73,7 @@
       <source xml:lang="ru">Назначение программы</source>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">Программное обеспечение «<ph ctype="x-other" id="0">&lt;ph keyref="software_name" status="removeContent" class="- topic/ph "&gt;</ph><ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="2">&lt;/keyword&gt;</ph><ph id="3">&lt;/ph&gt;</ph>» предназначено для управления, контроля и настройки оборудования системы посадки и навигации при проведении пусконаладочных, регламентных и ремонтных работ в составе:</source>
+      <source xml:lang="ru">Программное обеспечение «<mrk mid="0" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›" mtype="protected"><ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="2">&lt;/keyword&gt;</ph></mrk>» предназначено для управления, контроля и настройки оборудования системы посадки и навигации при проведении пусконаладочных, регламентных и ремонтных работ в составе:</source>
    </trans-unit>
       <trans-unit approved="no" xml:space="preserve" id="3">
       <source xml:lang="ru">ILS 734;</source>
@@ -117,7 +117,7 @@
   <file source-language="ru" original="concepts\console_734\introduction.dita" datatype="x-ditamap" target-language="en">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\projects\work\software_old\dita10496751853571163387.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7478976203871918580.skl"/>
       </skl>
     </header>
     <body>
@@ -125,7 +125,7 @@
       <source xml:lang="ru">Аннотация</source>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">В данном программном документе приведено <ph ctype="x-other" id="0">&lt;ph keyref="document_type" status="removeContent" class="- topic/ph "&gt;</ph><ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>руководство оператора<ph id="2">&lt;/keyword&gt;</ph><ph id="3">&lt;/ph&gt;</ph> по применению и эксплуатации программного обеспечения, а именно Системы контроля и управления техническими системами «<ph ctype="x-other" id="4">&lt;ph keyref="software_name" status="removeContent" class="- topic/ph "&gt;</ph><ph ctype="x-other" id="5">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="6">&lt;/keyword&gt;</ph><ph id="7">&lt;/ph&gt;</ph>».</source>
+      <source xml:lang="ru">В данном программном документе приведено <mrk mid="0" ts="‹ph keyref=″document_type″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›" mtype="protected"><ph ctype="x-other" id="2">&lt;keyword class="- topic/keyword "&gt;</ph>руководство оператора<ph id="3">&lt;/keyword&gt;</ph></mrk> по применению и эксплуатации программного обеспечения, а именно Системы контроля и управления техническими системами «<mrk mid="1" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›" mtype="protected"><ph ctype="x-other" id="4">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="5">&lt;/keyword&gt;</ph></mrk>».</source>
    </trans-unit>
       <trans-unit approved="no" id="3" xml:space="preserve">
       <source xml:lang="ru">Настоящее руководство предназначено для операторов, в обязанности которых входит разработка <ph ctype="x-other" id="0">&lt;term keyref="technical_device" class="- topic/term "/&gt;</ph> и <ph ctype="x-other" id="1">&lt;term keyref="software" class="- topic/term "/&gt;</ph>, а также наладка, ввод в эксплуатацию и сервисное обслуживание оборудования системы посадки и навигации.</source>
@@ -178,7 +178,7 @@
   <file original="console_734_glossgroup.dita" source-language="ru" target-language="en" datatype="x-ditamap">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\projects\work\software_old\dita8021645983680914831.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita10072576003562530324.skl"/>
       </skl>
     </header>
     <body>
@@ -317,7 +317,7 @@
   <file original="console_734_operator.ditamap" source-language="ru" target-language="en" datatype="x-ditamap">
     <header>
       <skl>
-        <external-file href="C:\Users\vershinin\projects\work\software_old\dita3755842433051258783.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita4949413121355684477.skl"/>
       </skl>
     </header>
     <body>
