@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <?encoding UTF-8?>
+  <file datatype="x-ditamap" original="concepts\console_734\execution_conditions.dita">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita2556635238672545411.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7158452665935108166.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita12610659356242927795.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Условия выполнения программы</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Минимальный состав аппаратных средств.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru">Для работы с программой компьютер должен обладать следующими минимальными характеристиками:</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">процессор с тактовой частотой 2 ГГц;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru">оперативная память – 1 ГБ;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">жесткий диск (HDD) – 16 ГБ;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru">графический адаптер с поддержкой разрешения 1024 x 800 пикселей;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru">свободный USB-порт (COM-порт).</source>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru">Минимальный состав программных средств.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">Также на компьютере должна быть установлена <ph ctype="x-other" id="0">&lt;term keyref="operating_system" class="- topic/term "/&gt;</ph> Microsoft Windows 7 Professional или ее более поздние версии.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru">Требования к квалификации оператора.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source xml:lang="ru">Для работы в программе с повышенным уровнем доступа оператор должен относиться к одной из следующих групп пользователей и иметь соответствующую квалификацию.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="13" xml:space="preserve">
+      <source xml:lang="ru">Разработчики <ph ctype="x-other" id="0">&lt;term keyref="software" class="- topic/term "/&gt;</ph> – сотрудники, разрабатывающие модули обновлений, дополнений и расширений программы.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="14" xml:space="preserve">
+      <source xml:lang="ru"> Взаимодействуют с системой через <ph ctype="x-other" id="0">&lt;term keyref="api" class="- topic/term "/&gt;</ph>, разрабатывая и загружая модули обновлений в общий репозиторий.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="15" xml:space="preserve">
+      <source xml:lang="ru">Разработчики <ph ctype="x-other" id="0">&lt;term keyref="technical_device" class="- topic/term "/&gt;</ph> – сотрудники, использующие дополнительные модули для отладки, проверки, калибровки и тестирования ТС.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="16" xml:space="preserve">
+      <source xml:lang="ru">Технические специалисты – сотрудники, осуществляющие наладку и ввод в эксплуатацию ТС.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="17" xml:space="preserve">
+      <source xml:lang="ru">Сервисная служба – сотрудники, осуществляющие поверку, сервисное обслуживание и устранение неисправностей ТС.</source>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\function.dita">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita2549136078543298551.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita15386535157344934177.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita12232723782935079903.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Назначение программы</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Программное обеспечение «<ph ctype="x-other" id="0">&lt;ph keyref="software_name" status="removeContent" class="- topic/ph "&gt;</ph>
+          <ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="2">&lt;/keyword&gt;</ph>
+          <ph id="3">&lt;/ph&gt;</ph>» предназначено для управления, контроля и настройки оборудования системы посадки и навигации при проведении пусконаладочных, регламентных и ремонтных работ в составе:<mrk mid="0" mtype="protected" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›">
+            <ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="2">&lt;/keyword&gt;</ph>
+          </mrk>
+        </source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru">ILS 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">VOR 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru"> 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">NDB 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru"> RDF 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru">FFM 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru">GBAS 734;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">Marker 734.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru">Основные задачи, решаемые программой:</source>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source xml:lang="ru">получение и отображение информации о состоянии оборудования;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="13" xml:space="preserve">
+      <source xml:lang="ru">управление работой оборудования;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="14" xml:space="preserve">
+      <source xml:lang="ru">установка и настройка рабочих параметров оборудования.</source>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\introduction.dita">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita10496751853571163387.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7478976203871918580.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita8499014830481918543.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Аннотация</source>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">В данном программном документе приведено <ph ctype="x-other" id="0">&lt;ph keyref="document_type" status="removeContent" class="- topic/ph "&gt;</ph>
+          <ph ctype="x-other" id="1">&lt;keyword class="- topic/keyword "&gt;</ph>руководство оператора<ph id="2">&lt;/keyword&gt;</ph>
+          <ph id="3">&lt;/ph&gt;</ph> по применению и эксплуатации программного обеспечения, а именно Системы контроля и управления техническими системами «<ph ctype="x-other" id="4">&lt;ph keyref="software_name" status="removeContent" class="- topic/ph "&gt;</ph>
+          <ph ctype="x-other" id="5">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="6">&lt;/keyword&gt;</ph>
+          <ph id="7">&lt;/ph&gt;</ph>».<mrk mid="0" mtype="protected" ts="‹ph keyref=″document_type″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›">
+            <ph ctype="x-other" id="2">&lt;keyword class="- topic/keyword "&gt;</ph>руководство оператора<ph id="3">&lt;/keyword&gt;</ph>
+          </mrk>
+          <mrk mid="1" mtype="protected" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›">
+            <ph ctype="x-other" id="4">&lt;keyword class="- topic/keyword "&gt;</ph>Console 734<ph id="5">&lt;/keyword&gt;</ph>
+          </mrk>
+        </source>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru">Настоящее руководство предназначено для операторов, в обязанности которых входит разработка <ph ctype="x-other" id="0">&lt;term keyref="technical_device" class="- topic/term "/&gt;</ph> и <ph ctype="x-other" id="1">&lt;term keyref="software" class="- topic/term "/&gt;</ph>, а также наладка, ввод в эксплуатацию и сервисное обслуживание оборудования системы посадки и навигации.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">В разделе «Назначение программы» программного документа указаны сведения о назначении программы и информация, достаточная для понимания функций программы и ее эксплуатации.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru">Раздел «Условия выполнения программы» содержит условия, необходимые для выполнения программы (минимальный состав аппаратных и программных средств), и квалификационные требования к оператору.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">В разделе «Выполнение программы» определен общий порядок работы оператора с программой, приведено описание функций, формата и интерфейса, с помощью которого оператор управляет выполнением программы.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru">Для работы в программе пользователь должен относиться к одной из следующих групп и иметь соответствующую квалификацию:</source>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru">системный администратор – сотрудник, в обязанности которого входит обеспечение штатной работы <ph ctype="x-other" id="0">&lt;term keyref="software" class="- topic/term "/&gt;</ph> системы и локальной сети, связывающей <ph ctype="x-other" id="1">&lt;term keyref="technical_device" class="- topic/term "/&gt;</ph>, а также назначение ролей и распределение прав доступа остальным пользователям.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru">оператор ТС - сотрудник, осуществляющий контроль и управление ТС.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">потребитель информации – конечный пользователь, получающий информацию от ТС.</source>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru">Минимальные системные требования для работы с программой:</source>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source xml:lang="ru">процессор с тактовой частотой 2 ГГц;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="13" xml:space="preserve">
+      <source xml:lang="ru">оперативная память – 1 ГБ;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="14" xml:space="preserve">
+      <source xml:lang="ru">жесткий диск (HDD) – 16 ГБ;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="15" xml:space="preserve">
+      <source xml:lang="ru">графический адаптер с поддержкой разрешения 1024 x 800 пикселей;</source>
+   </trans-unit>
+      <trans-unit approved="no" id="16" xml:space="preserve">
+      <source xml:lang="ru">свободный USB-порт (COM-порт).</source>
+   </trans-unit>
+      <trans-unit approved="no" id="17" xml:space="preserve">
+      <source xml:lang="ru">Также на компьютере должна быть установлена <ph ctype="x-other" id="0">&lt;term keyref="operating_system" class="- topic/term "/&gt;</ph> Microsoft Windows 7 Professional или ее более поздние версии.</source>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="console_734_glossgroup.dita" source-language="ru" target-language="en">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita8021645983680914831.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita10072576003562530324.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16007621995660248851.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita7541546194460675543.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Обозначения и сокращения</source>
+        <target>Notation and abbreviations</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">API</source>
+        <target>API</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> – программный интерфейс приложения (Application Programming Interface) – описание способов (набор классов, процедур, функций, структур или констант), которыми одна компьютерная программа может взаимодействовать с другой программой.</source>
+        <target> - application programming interface (Application Programming Interface) - a description of methods (a set of classes, procedures, functions, structures or constants) with which one computer program can interact with another program.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">DME</source>
+        <target>DME</target>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru"> – дальномерное оборудование (Distance Measuring Equipment).</source>
+        <target> - distance measuring equipment (Distance Measuring Equipment).</target>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">АРП</source>
+        <target>ARP</target>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru"> – автоматический радиопеленгатор.</source>
+        <target> - automatic radio direction finder.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru">АСПН</source>
+        <target>ASPN</target>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru"> – анализатор сигналов посадки и навигации.</source>
+        <target> - Signal analyzer landing and navigation.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">БЧ</source>
+        <target>CU</target>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru"> – боковые частоты.</source>
+        <target> - side frequencies.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source xml:lang="ru">ВЧ</source>
+        <target>HF</target>
+   </trans-unit>
+      <trans-unit approved="no" id="13" xml:space="preserve">
+      <source xml:lang="ru"> – высокая частота, высокочастотный.</source>
+        <target> - high frequency, high frequency.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="14" xml:space="preserve">
+      <source xml:lang="ru">ГРМ</source>
+        <target>Timing</target>
+   </trans-unit>
+      <trans-unit approved="no" id="15" xml:space="preserve">
+      <source xml:lang="ru"> – глиссадный радиомаяк.</source>
+        <target> - glide slope beacon.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="16" xml:space="preserve">
+      <source xml:lang="ru">ИБП</source>
+        <target>UPS</target>
+   </trans-unit>
+      <trans-unit approved="no" id="17" xml:space="preserve">
+      <source xml:lang="ru"> – источник бесперебойного питания.</source>
+        <target> - uninterrupted power supply unit.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="18" xml:space="preserve">
+      <source xml:lang="ru">КРМ</source>
+        <target>KRM</target>
+   </trans-unit>
+      <trans-unit approved="no" id="19" xml:space="preserve">
+      <source xml:lang="ru"> – курсовой радиомаяк.</source>
+        <target> - course beacon.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="20" xml:space="preserve">
+      <source xml:lang="ru">КСВН</source>
+        <target>VSWR</target>
+   </trans-unit>
+      <trans-unit approved="no" id="21" xml:space="preserve">
+      <source xml:lang="ru"> – коэффициент стоячей волны по напряжению.</source>
+        <target> - coefficient of standing wave voltage.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="22" xml:space="preserve">
+      <source xml:lang="ru">НБЧ</source>
+        <target>NBCH</target>
+   </trans-unit>
+      <trans-unit approved="no" id="23" xml:space="preserve">
+      <source xml:lang="ru"> – несущая и боковые частоты.</source>
+        <target> - carrier and side frequencies.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="24" xml:space="preserve">
+      <source xml:lang="ru">ОС</source>
+        <target>OS</target>
+   </trans-unit>
+      <trans-unit approved="no" id="25" xml:space="preserve">
+      <source xml:lang="ru">– операционная система.</source>
+        <target>- operating system.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="26" xml:space="preserve">
+      <source xml:lang="ru">ПО</source>
+        <target>BY</target>
+   </trans-unit>
+      <trans-unit approved="no" id="27" xml:space="preserve">
+      <source xml:lang="ru"> – программное обеспечение.</source>
+        <target> - software.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="28" xml:space="preserve">
+      <source xml:lang="ru">ПУ</source>
+        <target>PU</target>
+   </trans-unit>
+      <trans-unit approved="no" id="29" xml:space="preserve">
+      <source xml:lang="ru"> – процессор управления.</source>
+        <target> - control processor.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="30" xml:space="preserve">
+      <source xml:lang="ru">ПУМ</source>
+        <target>Pip</target>
+   </trans-unit>
+      <trans-unit approved="no" id="31" xml:space="preserve">
+      <source xml:lang="ru"> – предварительный усилитель мощности.</source>
+        <target> - Pre-power amplifier.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="32" xml:space="preserve">
+      <source xml:lang="ru">РГМ</source>
+        <target>Rgm</target>
+   </trans-unit>
+      <trans-unit approved="no" id="33" xml:space="preserve">
+      <source xml:lang="ru"> – разность глубин модуляции.</source>
+        <target> - the difference in depth of modulation.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="34" xml:space="preserve">
+      <source xml:lang="ru">СГМ</source>
+        <target>Cgm</target>
+   </trans-unit>
+      <trans-unit approved="no" id="35" xml:space="preserve">
+      <source xml:lang="ru"> – сумма глубин модуляции.</source>
+        <target> - the sum of the modulation depths.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="36" xml:space="preserve">
+      <source xml:lang="ru">ТС</source>
+        <target>Vehicle</target>
+   </trans-unit>
+      <trans-unit approved="no" id="37" xml:space="preserve">
+      <source xml:lang="ru"> – техническое устройство (система) – совокупность машин и механизмов, выполняющих определенную функцию по преобразованию энергии и совершению полезной работы.</source>
+        <target> - technical device (system) - a set of machines and mechanisms that perform a specific function of energy conversion and the performance of useful work.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="38" xml:space="preserve">
+      <source xml:lang="ru">УК</source>
+        <target>Criminal Code</target>
+   </trans-unit>
+      <trans-unit approved="no" id="39" xml:space="preserve">
+      <source xml:lang="ru"> – узкий канал.</source>
+        <target> - narrow channel.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="40" xml:space="preserve">
+      <source xml:lang="ru">УМ</source>
+        <target>MIND</target>
+   </trans-unit>
+      <trans-unit approved="no" id="41" xml:space="preserve">
+      <source xml:lang="ru"> – усилитель мощности.</source>
+        <target> - amplifier.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="42" xml:space="preserve">
+      <source xml:lang="ru">ШК</source>
+        <target>HQ</target>
+   </trans-unit>
+      <trans-unit approved="no" id="43" xml:space="preserve">
+      <source xml:lang="ru"> – широкий канал.</source>
+        <target> - wide channel.</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="console_734_operator.ditamap" source-language="ru" target-language="en">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita3755842433051258783.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita4949413121355684477.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita8974440895913729249.skl"/>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita14940653284286162180.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Программное обеспечение Console 734<ph id="0"></ph></ph> <ph ctype="x-other" id="1"><ph class="- topic/ph "></ph>Руководство оператора<ph id="2"></ph></ph> <ph ctype="x-other" id="3"><ph class="- topic/ph "></ph>RU.7453099174.00001–01 34 01</source>
+        <target>Software Console 734 <ph id="0"></ph></ph><ph ctype="x-other" id="1"><ph class="- topic/ph "></ph>Operator's Manual <ph id="2"></ph></ph><ph ctype="x-other" id="3"><ph class="- topic/ph "></ph>RU.7453099174.00001-01 34 01</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Руководство оператора Console 734</source>
+        <target>Console 734 Operator's Guide</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru">Console 734</source>
+        <target>Console 734</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">руководство оператора</source>
+        <target>operator's manual</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\chat.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita6387182020009134106.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Чат</source>
+        <target>Chat</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Для подключенных к системе консолей доступен чат, окно которого можно вызвать через вкладку «<ph ctype="x-link" id="0"><xref href="tools_tab.dita#console_734_tools_tab" class="- topic/xref "></ph>Инструменты<ph id="1"></xref></ph>» главного окна программы.</source>
+        <target>For consoles connected to the system, a chat is available, the window of which can be opened via the tab “<ph ctype="x-link" id="0"><xref href="tools_tab.dita#console_734_tools_tab" class="- topic/xref "></ph>Tools <ph id="1"></xref></ph>” of the main program window.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> В левой части окна чата расположен список доступных для общения пользователей программы, в правой части окна – поле обмена сообщениями.</source>
+        <target> In the left part of the chat window there is a list of the program users available for communication, in the right part of the window there is a message exchange field.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">Окно чата всплывает при входящих сообщениях.</source>
+        <target>Chat window pops up with incoming messages.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru"> Набранные сообщения отправляются с помощью клавиши «Enter».</source>
+        <target> The typed messages are sent using the "Enter" key.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">Чат</source>
+        <target>Chat</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\common_tools.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita16285573072783592595.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Общие инструменты</source>
+        <target>Common tools</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\firmware_install.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita15861028259823548734.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Прошивка устройства</source>
+        <target>Device firmware</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">С помощью данного инструмента можно обновить встроенное ПО устройства.</source>
+        <target>With this tool you can update the device firmware.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> Для выполнения операции требуется добавить одно или несколько устройств одного типа, выбрать файл соответствующей прошивки, ввести дополнительные параметры (пароли и номер образа) и нажать кнопку «Прошить».</source>
+        <target> To perform the operation, you need to add one or several devices of the same type, select the file of the corresponding firmware, enter additional parameters (passwords and image number) and click the “Flash” button.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">Прошивка устройства</source>
+        <target>Device firmware</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\packet_tracing.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita4683766013162082350.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Трассировка пакетов</source>
+        <target>Packet tracing</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Отслеживание обмена данных с устройствами выполняется посредством инструмента трассировки пакетов.</source>
+        <target>Data tracking with devices is done through the packet trace tool.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> Процесс трассировки начинается с выбора точки подключения – кнопка «Подключить».</source>
+        <target> The tracing process begins with the selection of a connection point - the “Connect” button.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru"> Список доступных для подключения точек показывается в отдельном диалоговом окне.</source>
+        <target> The list of available connection points is shown in a separate dialog box.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru">Трассировка пакетов</source>
+        <target>Packet tracing</target>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">Сразу после выбора подключения запускается мониторинг обмена данных.</source>
+        <target>Immediately after selecting the connection, the data exchange monitoring starts.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru"> Над списком записей доступны поля для фильтрации и группировки отображаемых записей, в нижней части окна показывается статистика.</source>
+        <target> Above the list of records, fields are available for filtering and grouping the displayed records, and statistics are displayed at the bottom of the window.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru"> Дополнительные кнопки действий:</source>
+        <target> Additional action buttons:</target>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru">«Отключить» – разрывает соединение с одной из выбранных точек;</source>
+        <target>“Disconnect” - breaks the connection with one of the selected points;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">«Очистить» – стирает все записи;</source>
+        <target>"Clear" - erases all entries;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru">«Остановить» – приостанавливает мониторинг.</source>
+        <target>“Stop” - stops monitoring.</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\rdf_correction_tables_editor.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita15407805101653600886.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Редактор таблиц корректировок АРП</source>
+        <target>ADP Adjustment Tables Editor</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Данный инструмент применяется для корректировки значений азимута <ph ctype="x-other" id="0"><term keyref="rdf" class="- topic/term "/></ph> посредством табличных данных.</source>
+        <target>This tool is used to adjust the azimuth values <ph ctype="x-other" id="0"><term keyref="rdf" class="- topic/term "/></ph>using tabular data.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> Таблицы могут быть созданы вновь, а также загружены из файла или устройства.</source>
+        <target> Tables can be re-created as well as downloaded from a file or device.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">Новая таблица создается по клавише <ph ctype="x-image" id="0"><image href="../../images/console_734/icons/square_plus.jpg" placement="inline" scalefit="yes" class="- topic/image " align="center"/></ph>.</source>
+        <target>A new table is created by pressing the <ph ctype="x-image" id="0"><image href="../../images/console_734/icons/square_plus.jpg" placement="inline" scalefit="yes" class="- topic/image " align="center"/></ph>key.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="5" xml:space="preserve">
+      <source xml:lang="ru"> В левой колонке отображаются частоты, в правой колонке – таблицы показаний с борта и с АРП отдельно для каждой из частот.</source>
+        <target> In the left column, frequencies are displayed, in the right column - tables of readings from the board and from the ATM for each frequency separately.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="6" xml:space="preserve">
+      <source xml:lang="ru">Редактор таблиц корректировок АРП</source>
+        <target>ADP Adjustment Tables Editor</target>
+   </trans-unit>
+      <trans-unit approved="no" id="7" xml:space="preserve">
+      <source xml:lang="ru">С помощью пункта меню «Правка» можно копировать и удалять частоты.</source>
+        <target>Using the menu item "Edit" you can copy and delete frequencies.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="8" xml:space="preserve">
+      <source xml:lang="ru"> Запись частоты копируется полностью со всеми показаниями.</source>
+        <target> The frequency record is copied completely with all indications.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="9" xml:space="preserve">
+      <source xml:lang="ru">Пункт меню «Файл» содержит следующие элементы:</source>
+        <target>The menu item "File" contains the following items:</target>
+   </trans-unit>
+      <trans-unit approved="no" id="10" xml:space="preserve">
+      <source xml:lang="ru">«Создать новые таблицы» – открывает шаблон таблиц;</source>
+        <target>“Create new tables” - opens a table template;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="11" xml:space="preserve">
+      <source xml:lang="ru">«Обновить» – обновляет отображаемые таблицы (из открытого файла или из АРП);</source>
+        <target>“Refresh” - updates the displayed tables (from an open file or from the ATM);</target>
+   </trans-unit>
+      <trans-unit approved="no" id="12" xml:space="preserve">
+      <source xml:lang="ru">«Открыть устройство» – предлагает выбрать АРП для выгрузки из него таблиц;</source>
+        <target>"Open device" - offers to choose the ATM to unload tables from it;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="13" xml:space="preserve">
+      <source xml:lang="ru">«Загрузить в устройство» – предлагает выбрать АРП для загрузки в него отображаемых таблиц;</source>
+        <target>“Load to device” - offers to choose ATM to load the displayed tables into it;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="14" xml:space="preserve">
+      <source xml:lang="ru">«Открыть файл» – открывает файл формата csv с ранее сохраненными таблицами;</source>
+        <target>“Open file” - opens a csv file with previously saved tables;</target>
+   </trans-unit>
+      <trans-unit approved="no" id="15" xml:space="preserve">
+      <source xml:lang="ru">«Сохранить как (файл)» – сохраняет отображаемые таблицы в файл (формат – csv); файл может быть дополнен до 16 каналов пеленгования со значениями по умолчанию (частота – 127 МГц, угол – 0 градусов).</source>
+        <target>“Save as (file)” - saves the displayed tables to a file (format - csv); The file can be supplemented with up to 16 channels of direction finding with default values (frequency - 127 MHz, angle - 0 degrees).</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\users_activity.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita13327204922873912241.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Действия пользователей</source>
+        <target>User actions</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Данный инструмент позволяет отслеживать действия всех подключенных пользователей.</source>
+        <target>This tool allows you to track the actions of all connected users.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> Записи действий могут быть отфильтрованы с помощью выдвигающейся вкладки справа.</source>
+        <target> Action records can be filtered using the slideout tab on the right.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">Действия пользователей</source>
+        <target>User actions</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+  <file datatype="x-ditamap" original="concepts\console_734\view_logs.dita" source-language="ru" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <external-file href="C:\Users\vershinin\AppData\Roaming\Maxprograms\skl\dita6417510670576152631.skl"/>
+      </skl>
+      <tool tool-id="OpenXLIFF" tool-name="Open XLIFF Filters" tool-version="1.3.2 20190630_1138"/>
+    </header>
+    <body>
+      <trans-unit approved="no" id="1" xml:space="preserve">
+      <source xml:lang="ru">Просмотр логов</source>
+        <target>View logs</target>
+   </trans-unit>
+      <trans-unit approved="no" id="2" xml:space="preserve">
+      <source xml:lang="ru">Данное окно позволяет просматривать общий журнал сообщений от подключенных устройств.</source>
+        <target>This window allows you to view a general log of messages from connected devices.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="3" xml:space="preserve">
+      <source xml:lang="ru"> Фильтрация записей осуществляется с помощью выдвигающейся вкладки справа.</source>
+        <target> Filtering entries is done using the slideout tab on the right.</target>
+   </trans-unit>
+      <trans-unit approved="no" id="4" xml:space="preserve">
+      <source xml:lang="ru">Список записей</source>
+        <target>List of entries</target>
+   </trans-unit>
+    </body>
+    <?encoding UTF-8?>
+    <?encoding UTF-8?>
+  </file>
+</xliff>
