@@ -5,6 +5,7 @@
     <header>
       <skl>
         <external-file href="C:\Users\vershinin\projects\work\software_old\dita2556635238672545411.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7158452665935108166.skl"/>
       </skl>
     </header>
     <body>
@@ -83,6 +84,7 @@
     <header>
       <skl>
         <external-file href="C:\Users\vershinin\projects\work\software_old\dita2549136078543298551.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita15386535157344934177.skl"/>
       </skl>
     </header>
     <body>
@@ -91,8 +93,8 @@
         <target>Purpose of the program</target>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">Программное обеспечение «<ph ctype="x-other" id="0"><ph keyref="software_name" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="1"><keyword class="- topic/keyword "></ph>Console 734<ph id="2"></keyword></ph><ph id="3"></ph></ph>» предназначено для управления, контроля и настройки оборудования системы посадки и навигации при проведении пусконаладочных, регламентных и ремонтных работ в составе:</source>
-        <target>Software «<ph ctype="x-other" id="0"><ph keyref="software_name" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="1"><keyword class="- topic/keyword "></ph>Console 734 <ph id="2"></keyword></ph><ph id="3"></ph></ph>» designed for controlling, monitoring and adjustment of landing systems and navigation equipment during commissioning, maintenance or repair of:</target>
+      <source xml:lang="ru">Программное обеспечение «<mrk mid="0" mtype="protected" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›"><ph ctype="x-other" id="1"><keyword class="- topic/keyword "></ph>Console 734<ph id="2"></keyword></ph></mrk>» предназначено для управления, контроля и настройки оборудования системы посадки и навигации при проведении пусконаладочных, регламентных и ремонтных работ в составе:</source>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="3" xml:space="preserve">
       <source xml:lang="ru">ILS 734;</source>
@@ -149,6 +151,7 @@
     <header>
       <skl>
         <external-file href="C:\Users\vershinin\projects\work\software_old\dita10496751853571163387.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita7478976203871918580.skl"/>
       </skl>
     </header>
     <body>
@@ -157,8 +160,8 @@
         <target>annotation</target>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
-      <source xml:lang="ru">В данном программном документе приведено <ph ctype="x-other" id="0"><ph keyref="document_type" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="1"><keyword class="- topic/keyword "></ph>руководство оператора<ph id="2"></keyword></ph><ph id="3"></ph></ph> по применению и эксплуатации программного обеспечения, а именно Системы контроля и управления техническими системами «<ph ctype="x-other" id="4"><ph keyref="software_name" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="5"><keyword class="- topic/keyword "></ph>Console 734<ph id="6"></keyword></ph><ph id="7"></ph></ph>».</source>
-        <target>This policy document is given <ph ctype="x-other" id="0"><ph keyref="document_type" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="1"><keyword class="- topic/keyword "></ph>Operator's Manual <ph id="2"></keyword></ph><ph id="3"></ph></ph>on the use and operation of the software, namely the management and control systems technical systems «<ph ctype="x-other" id="4"><ph keyref="software_name" status="removeContent" class="- topic/ph "></ph><ph ctype="x-other" id="5"><keyword class="- topic/keyword "></ph>Console 734 <ph id="6"></keyword></ph>< lh8lh></ph>”.</target>
+      <source xml:lang="ru">В данном программном документе приведено <mrk mid="0" mtype="protected" ts="‹ph keyref=″document_type″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›"><ph ctype="x-other" id="2"><keyword class="- topic/keyword "></ph>руководство оператора<ph id="3"></keyword></ph></mrk> по применению и эксплуатации программного обеспечения, а именно Системы контроля и управления техническими системами «<mrk mid="1" mtype="protected" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›"><ph ctype="x-other" id="4"><keyword class="- topic/keyword "></ph>Console 734<ph id="5"></keyword></ph></mrk>».</source>
+        <target>This policy document is given <mrk mid="0" mtype="protected" ts="‹ph keyref=″document_type″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›"><ph ctype="x-other" id="2"><keyword class="- topic/keyword "></ph>Operator's Manual <ph id="3"></keyword></ph></mrk>on the use and operation of the software, namely the management and control systems technical systems «<mrk mid="1" mtype="protected" ts="‹ph keyref=″software_name″ status=″removeContent″ class=″- topic/ph ″ translate=″no″​›"><ph ctype="x-other" id="4"><keyword class="- topic/keyword "></ph>Console 734 <ph id="5"></keyword></ph></mrk>» .</target>
    </trans-unit>
       <trans-unit approved="no" id="3" xml:space="preserve">
       <source xml:lang="ru">Настоящее руководство предназначено для операторов, в обязанности которых входит разработка <ph ctype="x-other" id="0"><term keyref="technical_device" class="- topic/term "/></ph> и <ph ctype="x-other" id="1"><term keyref="software" class="- topic/term "/></ph>, а также наладка, ввод в эксплуатацию и сервисное обслуживание оборудования системы посадки и навигации.</source>
@@ -227,6 +230,7 @@
     <header>
       <skl>
         <external-file href="C:\Users\vershinin\projects\work\software_old\dita8021645983680914831.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita10072576003562530324.skl"/>
       </skl>
     </header>
     <body>
@@ -252,155 +256,155 @@
    </trans-unit>
       <trans-unit approved="no" id="6" xml:space="preserve">
       <source xml:lang="ru">АРП</source>
-        <target>ARP</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="7" xml:space="preserve">
       <source xml:lang="ru"> – автоматический радиопеленгатор.</source>
-        <target> - automatic radio direction finder.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="8" xml:space="preserve">
       <source xml:lang="ru">АСПН</source>
-        <target>ASPN</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="9" xml:space="preserve">
       <source xml:lang="ru"> – анализатор сигналов посадки и навигации.</source>
-        <target> - Signal analyzer landing and navigation.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="10" xml:space="preserve">
       <source xml:lang="ru">БЧ</source>
-        <target>CU</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="11" xml:space="preserve">
       <source xml:lang="ru"> – боковые частоты.</source>
-        <target> - side frequencies.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="12" xml:space="preserve">
       <source xml:lang="ru">ВЧ</source>
-        <target>HF</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="13" xml:space="preserve">
       <source xml:lang="ru"> – высокая частота, высокочастотный.</source>
-        <target> - high frequency, high frequency.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="14" xml:space="preserve">
       <source xml:lang="ru">ГРМ</source>
-        <target>Timing</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="15" xml:space="preserve">
       <source xml:lang="ru"> – глиссадный радиомаяк.</source>
-        <target> - glide slope beacon.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="16" xml:space="preserve">
       <source xml:lang="ru">ИБП</source>
-        <target>UPS</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="17" xml:space="preserve">
       <source xml:lang="ru"> – источник бесперебойного питания.</source>
-        <target> - uninterrupted power supply unit.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="18" xml:space="preserve">
       <source xml:lang="ru">КРМ</source>
-        <target>KRM</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="19" xml:space="preserve">
       <source xml:lang="ru"> – курсовой радиомаяк.</source>
-        <target> - course beacon.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="20" xml:space="preserve">
       <source xml:lang="ru">КСВН</source>
-        <target>VSWR</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="21" xml:space="preserve">
       <source xml:lang="ru"> – коэффициент стоячей волны по напряжению.</source>
-        <target> - coefficient of standing wave voltage.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="22" xml:space="preserve">
       <source xml:lang="ru">НБЧ</source>
-        <target>NBCH</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="23" xml:space="preserve">
       <source xml:lang="ru"> – несущая и боковые частоты.</source>
-        <target> - carrier and side frequencies.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="24" xml:space="preserve">
       <source xml:lang="ru">ОС</source>
-        <target>OS</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="25" xml:space="preserve">
       <source xml:lang="ru">– операционная система.</source>
-        <target>- operating system.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="26" xml:space="preserve">
       <source xml:lang="ru">ПО</source>
-        <target>BY</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="27" xml:space="preserve">
       <source xml:lang="ru"> – программное обеспечение.</source>
-        <target> - software.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="28" xml:space="preserve">
       <source xml:lang="ru">ПУ</source>
-        <target>PU</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="29" xml:space="preserve">
       <source xml:lang="ru"> – процессор управления.</source>
-        <target> - control processor.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="30" xml:space="preserve">
       <source xml:lang="ru">ПУМ</source>
-        <target>Pip</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="31" xml:space="preserve">
       <source xml:lang="ru"> – предварительный усилитель мощности.</source>
-        <target> - Pre-power amplifier.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="32" xml:space="preserve">
       <source xml:lang="ru">РГМ</source>
-        <target>Rgm</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="33" xml:space="preserve">
       <source xml:lang="ru"> – разность глубин модуляции.</source>
-        <target> - the difference in depth of modulation.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="34" xml:space="preserve">
       <source xml:lang="ru">СГМ</source>
-        <target>Cgm</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="35" xml:space="preserve">
       <source xml:lang="ru"> – сумма глубин модуляции.</source>
-        <target> - the sum of the modulation depths.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="36" xml:space="preserve">
       <source xml:lang="ru">ТС</source>
-        <target>Vehicle</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="37" xml:space="preserve">
       <source xml:lang="ru"> – техническое устройство (система) – совокупность машин и механизмов, выполняющих определенную функцию по преобразованию энергии и совершению полезной работы.</source>
-        <target> - technical device (system) - a set of machines and mechanisms that perform a specific function of energy conversion and the performance of useful work.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="38" xml:space="preserve">
       <source xml:lang="ru">УК</source>
-        <target>Criminal Code</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="39" xml:space="preserve">
       <source xml:lang="ru"> – узкий канал.</source>
-        <target> - narrow channel.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="40" xml:space="preserve">
       <source xml:lang="ru">УМ</source>
-        <target>MIND</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="41" xml:space="preserve">
       <source xml:lang="ru"> – усилитель мощности.</source>
-        <target> - amplifier.</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="42" xml:space="preserve">
       <source xml:lang="ru">ШК</source>
-        <target>HQ</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="43" xml:space="preserve">
       <source xml:lang="ru"> – широкий канал.</source>
-        <target> - wide channel.</target>
+        <target/>
    </trans-unit>
     </body>
     <?encoding UTF-8?>
@@ -409,24 +413,25 @@
     <header>
       <skl>
         <external-file href="C:\Users\vershinin\projects\work\software_old\dita3755842433051258783.skl"/>
+        <external-file href="C:\Users\vershinin\projects\work\software_old\dita4949413121355684477.skl"/>
       </skl>
     </header>
     <body>
       <trans-unit approved="no" id="1" xml:space="preserve">
       <source xml:lang="ru">Программное обеспечение Console 734<ph id="0"></ph></ph> <ph ctype="x-other" id="1"><ph class="- topic/ph "></ph>Руководство оператора<ph id="2"></ph></ph> <ph ctype="x-other" id="3"><ph class="- topic/ph "></ph>RU.7453099174.00001–01 34 01</source>
-        <target>Software Console 734 <ph id="0"></ph></ph><ph ctype="x-other" id="1"><ph class="- topic/ph "></ph>Operator's manual - check <ph id="2"></ph></ph><ph ctype="x-other" id="3"><ph class="- topic/ph "></ph>RU.7453099174.00001-01 34 01</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="2" xml:space="preserve">
       <source xml:lang="ru">Руководство оператора Console 734</source>
-        <target>Console 734 Operator's Guide</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="3" xml:space="preserve">
       <source xml:lang="ru">Console 734</source>
-        <target>Console 734</target>
+        <target/>
    </trans-unit>
       <trans-unit approved="no" id="4" xml:space="preserve">
       <source xml:lang="ru">руководство оператора</source>
-        <target>Console 734 Operator's Guide</target>
+        <target/>
    </trans-unit>
     </body>
     <?encoding UTF-8?>
